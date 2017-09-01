@@ -12,7 +12,7 @@ Visualize a ship's firing range and where it will be positioned after executing 
 
 If you have an iOS device that meets all of the requirements below, you can sign up below to become a Beta Tester. Provide your email address and you will be contacted with instructions to download a Beta version of the app.
 
-[Sign Up](https://goo.gl/forms/6Koja2biJ3sND8Vd2)
+<a href="https://goo.gl/forms/6Koja2biJ3sND8Vd2" style="padding: 20px; color: white; background-color:#63C0F5; font-size: 24px; border-radius: 5px">Sign Up to Beta Test</a>
 
 ## Requirements
 X-Wing Assist uses Apple's latest ARKit technology which requires [iOS 11 Beta](https://beta.apple.com/sp/betaprogram/) and one of the following iOS devices:
