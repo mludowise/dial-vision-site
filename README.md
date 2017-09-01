@@ -1,8 +1,12 @@
 X-Wing Assist is an iOS app that lets you preview maneuvers for the X-Wing Miniatures Game directly in augmented reality on your iOS device.
 
+<img src="img/screenshot-maneuver.png" width="577px"/>
+
 Visualize a ship's firing range and where it will be positioned after executing the selected maneuver, boost, barrel roll, or SLAM.
 
-Tap on the screen to identify your ship's position in augmented reality, select which ship you're previewing in the menu, then select the maneuver and action you wish to preview. Determine what positions will be within firing range and which maneuvers will avoid obstacle collisions.
+<img src="img/screenshot-action.png" width="577px"/>
+
+[//]: # (Tap on the screen to identify your ship's position in augmented reality, select which ship you're previewing in the menu, then select the maneuver and action you wish to preview. Determine what positions will be within firing range and which maneuvers will avoid obstacle collisions.)
 
 # Become a Beta Tester
 
