@@ -1,4 +1,4 @@
-Segnor's Loop is an iOS app that lets you preview maneuvers for the X-Wing Miniatures Game directly in augmented reality on your iOS device.
+X-Wing Assist is an iOS app that lets you preview maneuvers for the X-Wing Miniatures Game directly in augmented reality on your iOS device.
 
 Visualize a ship's firing range and where it will be positioned after executing the selected maneuver, boost, barrel roll, or SLAM.
 
@@ -11,7 +11,7 @@ If you have an iOS device that meets all of the requirements below, you can sign
 [Sign Up](https://goo.gl/forms/6Koja2biJ3sND8Vd2)
 
 ## Requirements
-Segnor's Loop uses Apple's latest ARKit technology which requires [iOS 11 Beta](https://beta.apple.com/sp/betaprogram/) and one of the following iOS devices:
+X-Wing Assist uses Apple's latest ARKit technology which requires [iOS 11 Beta](https://beta.apple.com/sp/betaprogram/) and one of the following iOS devices:
 - iPhone SE
 - iPhone 6s
 - iPhone 6s Plus
@@ -26,7 +26,7 @@ Segnor's Loop uses Apple's latest ARKit technology which requires [iOS 11 Beta](
 
 X-Wing: The Miniatures Game is a trademark of [Fantasy Flight Games](http://www.fantasyflightgames.com/).
 
-The Segnor's Loop app is the work of a fan, and is not endorsed by Fantasy Flight Games, Lucasfilm Ltd. or Twentieth Century Fox and is intended for entertainment and information purposes only.
+X-Wing Assist is the work of a fan, and is not endorsed by Fantasy Flight Games, Lucasfilm Ltd. or Twentieth Century Fox and is intended for entertainment and information purposes only.
 
 The names and icons of Star Wars characters, vehicles and any other Star Wars related items are registered trademarks and/or copyrights of Lucasfilm Ltd, or their respective trademark and copyright holders.
 
