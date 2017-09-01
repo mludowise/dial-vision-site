@@ -30,4 +30,4 @@ X-Wing Assist is the work of a fan, and is not endorsed by Fantasy Flight Games,
 
 The names and icons of Star Wars characters, vehicles and any other Star Wars related items are registered trademarks and/or copyrights of Lucasfilm Ltd, or their respective trademark and copyright holders.
 
-For more information on X-Wing: The Miniatures Game please visit http://www.fantasyflightgames.com/.
+For more information on X-Wing: The Miniatures Game please visit [http://www.fantasyflightgames.com/](http://www.fantasyflightgames.com/).
