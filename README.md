@@ -1,7 +1,8 @@
 **DialVision** is an iOS app that lets you preview maneuvers for the X-Wing Miniatures Game directly in augmented reality on your iOS device.
 
-<img src="img/screenshot-maneuver.png" width="577px"/>
+<a href="https://itunes.apple.com/us/app/dialvision/id1277244707"><img src="img/App_Store_Badge.svg"/></a>
 
+<img src="img/screenshot-maneuver.png" width="577px"/>
 
 See which maneuver to use to avoid collisions. Visualize a ship's firing range and where it will be positioned after executing the selected maneuver, boost, barrel roll, or SLAM.
 
