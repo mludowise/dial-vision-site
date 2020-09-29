@@ -15,6 +15,10 @@ Select which ship you're flying and the maneuver or action you want to preview.
 <img src="img/screenshot-movement-picker.png" width="577px"/>
 <img src="img/screenshot-maneuver-picker.png" width="577px"/>
 
+<p/>
+<p/>
+<img src="img/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/>
+
 ---
 
 #### Disclaimer:
